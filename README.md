@@ -1,2 +1,2 @@
-# bot-akshan.github.io
-Términos de uso y políticas de privacidad
+# Términos de uso
+Términos de uso
